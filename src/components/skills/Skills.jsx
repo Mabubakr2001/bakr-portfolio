@@ -19,18 +19,18 @@ export default function Skills() {
     <section className="mb-14">
       <SectionHeader sectionName="Skills" />
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-        <Skill icon={<img src={HTML}></img>} name="HTML"/>
-        <Skill icon={<img src={CSS}></img>} name="CSS"/>
-        <Skill icon={<img src={JavaScript}></img>} name="JavaScript ES5/ES6+"/>
-        <Skill icon={<img src={React}></img>} name="ReactJS"/>
-        <Skill icon={<img src={Redux}></img>} name="Redux"/>
-        <Skill icon={<img src={Git}></img>} name="Git"/>
-        <Skill icon={<img src={GitHub}></img>} name="GitHub Actions"/>
-        <Skill icon={<img src={TailwindCSS}></img>} name="TailwindCSS"/>
-        <Skill icon={<img src={Java}></img>} name="Java"/>
-        <Skill icon={<img src={OOP} alt="OOP"></img>} name="OOP"/>
-        <Skill icon={<img src={Algorithms} alt="Algorithms Icon"></img>} name="Algorithms"/>
-        <Skill icon={<img src={DataStructures} alt="Data Structures"></img>} name="Data Structures"/>
+        <Skill icon={<img src={HTML} alt="HTML image"></img>} name="HTML"/>
+        <Skill icon={<img src={CSS} alt="CSS image"></img>} name="CSS"/>
+        <Skill icon={<img src={JavaScript} alt="JavaScript image"></img>} name="JavaScript ES5/ES6+"/>
+        <Skill icon={<img src={React} alt="ReactJS image"></img>} name="ReactJS"/>
+        <Skill icon={<img src={Redux} alt="Redux image"></img>} name="Redux"/>
+        <Skill icon={<img src={Git} alt="Git image"></img>} name="Git"/>
+        <Skill icon={<img src={GitHub} alt="GitHub image"></img>} name="GitHub Actions"/>
+        <Skill icon={<img src={TailwindCSS} alt="TailwindCSS image"></img>} name="TailwindCSS"/>
+        <Skill icon={<img src={Java} alt="Java image"></img>} name="Java"/>
+        <Skill icon={<img src={OOP} alt="Object-Oriented programming image"></img>} name="OOP"/>
+        <Skill icon={<img src={Algorithms} alt="Algorithms image"></img>} name="Algorithms"/>
+        <Skill icon={<img src={DataStructures} alt="Data Structures image"></img>} name="Data Structures"/>
       </div>
     </section>
   )
