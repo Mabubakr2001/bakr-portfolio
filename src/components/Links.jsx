@@ -14,7 +14,6 @@ export default function Links() {
       <a href="mailto:mabobakr365@gmail.com" target="_blank" aria-label="Sent message through Gmail" rel="noopener noreferrer" className="-mb-2">
         <MdOutlineMailOutline size={25}/>
       </a>
-      <a href=""></a>
     </div>
   )
 }
