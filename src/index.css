@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* to think in tens when using rem, which is a lot easier. */
+html {
+  font-size: 62.5%;
+}
