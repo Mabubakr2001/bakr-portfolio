@@ -10,6 +10,10 @@
     "url": "https://www.linkedin.com/in/moaboubakr2001"
   },
   "scripts": {
+    "deploy": "firebase deploy --only hosting",
+    "deploy-preview": "firebase hosting:channel:deploy staging",
+    "serve": "firebase emulators:start",
+    "channel-list": "firebase hosting:channel:list",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
