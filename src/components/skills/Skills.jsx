@@ -19,18 +19,18 @@ export default function Skills() {
     <section className="mb-14">
       <SectionHeader sectionName="Skills" />
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-        <Skill icon={<img src={HTML} alt="HTML image"></img>} name="HTML"/>
-        <Skill icon={<img src={CSS} alt="CSS image"></img>} name="CSS"/>
-        <Skill icon={<img src={JavaScript} alt="JavaScript image"></img>} name="JavaScript ES5/ES6+"/>
-        <Skill icon={<img src={React} alt="ReactJS image"></img>} name="ReactJS"/>
-        <Skill icon={<img src={Redux} alt="Redux image"></img>} name="Redux"/>
-        <Skill icon={<img src={Git} alt="Git image"></img>} name="Git"/>
-        <Skill icon={<img src={GitHub} alt="GitHub image"></img>} name="GitHub Actions"/>
-        <Skill icon={<img src={TailwindCSS} alt="TailwindCSS image"></img>} name="TailwindCSS"/>
-        <Skill icon={<img src={Java} alt="Java image"></img>} name="Java"/>
-        <Skill icon={<img src={OOP} alt="Object-Oriented programming image"></img>} name="OOP"/>
-        <Skill icon={<img src={Algorithms} alt="Algorithms image"></img>} name="Algorithms"/>
-        <Skill icon={<img src={DataStructures} alt="Data Structures image"></img>} name="Data Structures"/>
+        <Skill icon={<img src={HTML} alt="HTML image" width="24" height="24"></img>} name="HTML"/>
+        <Skill icon={<img src={CSS} alt="CSS image" width="24" height="24"></img>} name="CSS"/>
+        <Skill icon={<img src={JavaScript} alt="JavaScript image" width="24" height="24"></img>} name="JavaScript ES5/ES6+"/>
+        <Skill icon={<img src={React} alt="ReactJS image" width="24" height="24"></img>} name="ReactJS"/>
+        <Skill icon={<img src={Redux} alt="Redux image" width="24" height="24"></img>} name="Redux"/>
+        <Skill icon={<img src={Git} alt="Git image" width="24" height="24"></img>} name="Git"/>
+        <Skill icon={<img src={GitHub} alt="GitHub image" width="24" height="24"></img>} name="GitHub Actions"/>
+        <Skill icon={<img src={TailwindCSS} alt="TailwindCSS image" width="24" height="24"></img>} name="TailwindCSS"/>
+        <Skill icon={<img src={Java} alt="Java image" width="24" height="24"></img>} name="Java"/>
+        <Skill icon={<img src={OOP} alt="Object-Oriented programming image" width="24" height="24"></img>} name="OOP"/>
+        <Skill icon={<img src={Algorithms} alt="Algorithms image" width="24" height="24"></img>} name="Algorithms"/>
+        <Skill icon={<img src={DataStructures} alt="Data Structures image" width="24" height="24"></img>} name="Data Structures"/>
       </div>
     </section>
   )

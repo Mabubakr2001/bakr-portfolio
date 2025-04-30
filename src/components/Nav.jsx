@@ -4,7 +4,7 @@ export default function Nav() {
   return (
     <nav className="flex justify-between py-3 pr-7">
       <a href="/">
-        <img src={Logo} width="60" height="60" alt="Mohamed Aboubakr's Logo" loading="lazy" decoding="async"></img>
+        <img src={Logo} width="60" height="60" alt="Mohamed Aboubakr's Logo"></img>
       </a>
       <ul className="flex justify-between items-center">
         <li>
