@@ -1,4 +1,4 @@
-import Logo from "../../public/images/mylogo.webp";
+import Logo from "../../public/images/my-logo.webp";
 
 export default function Nav() {
   return (
