@@ -25,7 +25,6 @@ export default function Skills() {
         <Skill icon={<img src={React} alt="ReactJS image" width="24" height="24"></img>} name="ReactJS"/>
         <Skill icon={<img src={Redux} alt="Redux image" width="24" height="24"></img>} name="Redux"/>
         <Skill icon={<img src={Git} alt="Git image" width="24" height="24"></img>} name="Git"/>
-        <Skill icon={<img src={GitHub} alt="GitHub image" width="24" height="24"></img>} name="GitHub Actions"/>
         <Skill icon={<img src={TailwindCSS} alt="TailwindCSS image" width="24" height="24"></img>} name="TailwindCSS"/>
         <Skill icon={<img src={Java} alt="Java image" width="24" height="24"></img>} name="Java"/>
         <Skill icon={<img src={OOP} alt="Object-Oriented programming image" width="24" height="24"></img>} name="OOP"/>
