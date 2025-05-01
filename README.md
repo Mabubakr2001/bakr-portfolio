@@ -36,7 +36,7 @@ git clone git@github.com:Mabubakr2001/bakr-portfolio.git
 cd bakr-portfolio
 ```
 
-### Install the needed 
+### Install the needed dependencies
 ```bash
 npm install
 ```
