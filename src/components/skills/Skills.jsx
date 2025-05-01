@@ -4,7 +4,6 @@ import JavaScript from "../../../public/images/js.webp";
 import React from "../../../public/images/react.webp";
 import Redux from "../../../public/images/redux.webp";
 import Git from "../../../public/images/git.webp";
-import GitHub from "../../../public/images/github.webp";
 import TailwindCSS from "../../../public/images/tailwindcss.webp";
 import Java from "../../../public/images/java.webp"
 import OOP from "../../../public/images/OOP.webp"
