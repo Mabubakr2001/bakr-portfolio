@@ -1,12 +1,47 @@
-# React + Vite
+# Portfolio ![Repo Status](https://img.shields.io/badge/repo%20status-Active-brightgreen)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developer portfolio site built with **React.js** and **TailwindCSS**. View it here: [https://bakr-portfolio.web.app](https://bakr-portfolio.web.app)
 
-Currently, two official plugins are available:
+![Portfolio Demo](./public/images/bakr-portfolio.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+v1 Portfolio Site - Apr 2025-present
+bakr-portfolio.web.app (Firebase Hosting + Emulator Suite)
+```
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
+- **React.js**
+- **TailwindCSS**
+- **Firebase**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Lighthouse Score
+![Lighthouse Score](./public/images/lighthouse.webp)
+
+## Local Development
+### Prerequisites
+- **Node.js :** Download and install from [https://nodejs.org/en](https://nodejs.org/en) (includes npm)
+
+### Navigate to Desktop from CMD or any Shell
+```bash
+cd Desktop
+```
+
+### Clone the repo
+```bash
+git clone git@github.com:Mabubakr2001/bakr-portfolio.git
+```
+
+### Navigate to the folder
+```bash
+cd bakr-portfolio
+```
+
+### Install the needed 
+```bash
+npm install
+```
+
+### Run the localhost
+```bash
+npm run dev
+```
